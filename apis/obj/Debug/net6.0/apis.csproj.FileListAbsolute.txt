@@ -1,0 +1,17 @@
+C:\Users\saqui\OneDrive\Desktop\Siemens\apis\apis\obj\Debug\net6.0\apis.csproj.AssemblyReference.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\apis\apis\obj\Debug\net6.0\apis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saqui\OneDrive\Desktop\Siemens\apis\apis\obj\Debug\net6.0\apis.AssemblyInfoInputs.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\apis\apis\obj\Debug\net6.0\apis.AssemblyInfo.cs
+C:\Users\saqui\OneDrive\Desktop\Siemens\apis\apis\obj\Debug\net6.0\apis.csproj.CoreCompileInputs.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\apis\apis\bin\Debug\net6.0\apis.exe
+C:\Users\saqui\OneDrive\Desktop\Siemens\apis\apis\bin\Debug\net6.0\apis.deps.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\apis\apis\bin\Debug\net6.0\apis.runtimeconfig.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\apis\apis\bin\Debug\net6.0\apis.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\apis\apis\bin\Debug\net6.0\apis.pdb
+C:\Users\saqui\OneDrive\Desktop\Siemens\apis\apis\obj\Debug\net6.0\apis.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\apis\apis\obj\Debug\net6.0\refint\apis.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\apis\apis\obj\Debug\net6.0\apis.pdb
+C:\Users\saqui\OneDrive\Desktop\Siemens\apis\apis\obj\Debug\net6.0\apis.genruntimeconfig.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\apis\apis\obj\Debug\net6.0\ref\apis.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\apis\apis\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\apis\apis\obj\Debug\net6.0\apis.csproj.CopyComplete

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apis", "apis\apis.csproj", "{66AAD635-2653-4788-AA84-510F02FE070B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "createapiapp", "createapiapp\createapiapp.csproj", "{1C2EFDF4-2707-4D37-9406-03C1DDEE8A4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpfappintro", "wpfappintro\wpfappintro.csproj", "{2A6A4D21-AA40-4098-AC31-DD77E8C1902B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66AAD635-2653-4788-AA84-510F02FE070B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66AAD635-2653-4788-AA84-510F02FE070B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66AAD635-2653-4788-AA84-510F02FE070B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66AAD635-2653-4788-AA84-510F02FE070B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2EFDF4-2707-4D37-9406-03C1DDEE8A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2EFDF4-2707-4D37-9406-03C1DDEE8A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2EFDF4-2707-4D37-9406-03C1DDEE8A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2EFDF4-2707-4D37-9406-03C1DDEE8A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A6A4D21-AA40-4098-AC31-DD77E8C1902B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6A4D21-AA40-4098-AC31-DD77E8C1902B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6A4D21-AA40-4098-AC31-DD77E8C1902B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6A4D21-AA40-4098-AC31-DD77E8C1902B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E6F506D-9001-4FE7-9883-FC85A2805FA3}
+	EndGlobalSection
+EndGlobal
